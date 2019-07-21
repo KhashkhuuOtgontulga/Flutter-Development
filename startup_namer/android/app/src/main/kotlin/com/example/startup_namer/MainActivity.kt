@@ -1,4 +1,4 @@
-package com.example.flutter_app
+package com.example.startup_namer
 
 import android.os.Bundle
 
